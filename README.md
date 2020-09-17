@@ -1,7 +1,7 @@
 # Yaml_to_JSON_Converter
 
 Overview:
-  This script will parse a YAML file and convert it into a structured JSON file. 
+This script will parse a YAML file and convert it into a structured JSON file. 
 
 Parameters: 
   yamlFile: Please replace current param with the actual location of yaml file
